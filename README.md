@@ -1,9 +1,13 @@
 #Pi in the Sky
 Pi in the sky aims to raise your awareness for health and air quality.
+There are two components; a web interface written in Ruby on Rails for data received from ``local-sensor-app.rb``.
 
+
+##How to use
 Begin at http://pi-in-the-sky.herokuapp.com/
 
 ![login](http://i.imgur.com/IMme2GDg.png?1)
+
 Register or log in
 
 ![profile](http://i.imgur.com/OaLYO6c.png?1)

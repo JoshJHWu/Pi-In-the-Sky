@@ -6,7 +6,7 @@ There are two components; a web interface written in Ruby on Rails for data rece
 ##How to use
 Begin at http://pi-in-the-sky.herokuapp.com/
 
-![login](http://i.imgur.com/IMme2GDg.png?1)
+![login](http://i.imgur.com/id2V4Ih.png?1)
 
 Register or log in
 
